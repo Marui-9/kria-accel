@@ -1,0 +1,11 @@
+# Vivado/Vitis generated
+kria_accel.cache/
+kria_accel.gen/
+kria_accel.hw/
+kria_accel.ip_user_files/
+kria_accel.runs/
+kria_accel.sim/
+*.jou
+*.log
+*.str
+*.tmp
